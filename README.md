@@ -1,4 +1,4 @@
-## 👋 – Oii, meu nome é Jordana
+## 👋 – Oii, meu nome é Jordana!
 
 Boas vindas ao meu perfil do GitHub! Sou uma estudante de desenvolvimento de sistemas ✨
 
