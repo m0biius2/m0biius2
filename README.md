@@ -1,6 +1,6 @@
 ## 👋 – Oii, meu nome é Jordana!
 
-Boas vindas ao meu perfil do GitHub! Sou uma estudante de desenvolvimento de sistemas ✨
+Boas vindas ao meu perfil do GitHub! Sou uma desenvolvedora de sistemas júnior ✨
 
 
 ## ⚙️ – Tecnologias
